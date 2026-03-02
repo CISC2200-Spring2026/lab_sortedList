@@ -1,4 +1,4 @@
-# CISC2200 Spring 2026 Lab5
+# CISC2200 Spring 2026 Lab4 on Sorted List 
 
 In this lab assignment, we practice **working with dynamic array**, **working with class template**,
 and **understanding testcases**, and finish the **sortedList** implementation. 
