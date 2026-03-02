@@ -1,4 +1,4 @@
-# CISC2200 Spring 2024 Lab5
+# CISC2200 Spring 2026 Lab5
 
 In this lab assignment, we practice **working with dynamic array**, **working with class template**,
 and **understanding testcases**, and finish the **sortedList** implementation. 
@@ -7,7 +7,7 @@ and **understanding testcases**, and finish the **sortedList** implementation.
 
 From your terminal (mac or WSL/Ubunto) window, you can use the following command to download it:
 ```
-git clone https://github.com/CISC2200-Spring2024/lab5.git
+git clone https://github.com/CISC2200-Spring2026/lab5.git
 ```
 Alternatively, you can use the following command to download the starter code as a zip file:
 ```
@@ -19,14 +19,6 @@ and then unzip it (if it's not automatically unzipped):
 unzip main.zip
 ```
 
-## Programming Environment Setup
-If you haven't done so already, please set up programming environment our our own computer, by following [Setup Tutorial](https://eecs280staff.github.io/tutorials/). 
-
-- The _Commannd Line Tools_ are required. 
-
-- The _C++ Dev Environment_ (VSCode) is highly recommened.
-
-**Please follow these tutorials closely and carefully.**
 
 ## Requirements:
 
