@@ -7,11 +7,11 @@ and **understanding testcases**, and finish the **sortedList** implementation.
 
 From your terminal (mac or WSL/Ubunto) window, you can use the following command to download it:
 ```
-git clone https://github.com/CISC2200-Spring2026/lab5.git
+git clone https://github.com/CISC2200-Spring2026/lab_sortedList.git
 ```
 Alternatively, you can use the following command to download the starter code as a zip file:
 ```
-wget https://github.com/CISC2200-Spring2024/lab5/archive/refs/heads/main.zip
+wget https://github.com/CISC2200-Spring2026/lab_sortedList/archive/refs/heads/main.zip
 ```
 
 and then unzip it (if it's not automatically unzipped): 
